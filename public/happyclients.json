@@ -1,0 +1,39 @@
+[
+    {
+      "reviewID": 1,
+      "name": "Shoes !",
+      "useImg": "https://i.ibb.co.com/HqTzM0c/product-1.jpg",
+      "review": "The teeth whitening treatment was incredible! I noticed a significant difference after just one session. Highly recommend it!"
+    },
+    {
+      "reviewID": 2,
+      "name": "Helmet",
+      "useImg": "https://i.ibb.co.com/YdKCMW1/product-2.jpg",
+      "review": "I had laser hair removal, and the results are amazing. The staff was professional, and the procedure was almost painless."
+    },
+    {
+      "reviewID": 3,
+      "name": "Jacket",
+      "useImg": "https://i.ibb.co.com/bQ7Kbpv/product-4.jpg",
+      "review": "I had a facial massage, and it was so relaxing! My skin feels rejuvenated, and the service was top-notch."
+    },
+    {
+      "reviewID": 4,
+      "name": "Mobiles",
+      "useImg": "https://i.ibb.co.com/TvJkJHn/product-5.jpg",
+      "review": "I got Botox injections for my forehead wrinkles. The results were subtle and natural, just what I wanted. Very happy with the experience!"
+    },
+    {
+      "reviewID": 5,
+      "name": "Laptop",
+      "useImg": "https://i.ibb.co.com/4jHCbxt/product-6.jpg",
+      "review": "I had a chemical peel, and my skin looks amazing! The treatment was quick, and I saw noticeable improvement in just a few days."
+    },
+    {
+      "reviewID": 6,
+      "name": "Watch !",
+      "useImg": "https://i.ibb.co.com/5R36X8S/watch-male-female-kid-set-3d-realistic-vector-529539-281.jpg",
+      "review": "The staff was friendly and informative. I got the teeth whitening and laser hair removal done. Both procedures were effective, and I’m very satisfied!"
+    }
+  ]
+  

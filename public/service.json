@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "treatment": "Loto Shoe",
+      "image": "https://i.ibb.co.com/HqTzM0c/product-1.jpg",
+      "description": "20% Discount winter Stay cozy and stylish this winter with our exclusive 20% off winter apparel collection! From luxurious fleece jackets to insulated boots, our winter gear is designed to keep you warm and fashionable all season long. Hurry, stock is limited—shop now and save before the chill sets in!",
+      "cost": "15% off"
+    },
+    {
+      "id": 2,
+      "treatment": "Arai Brand Helmet",
+      "image": "https://i.ibb.co.com/YdKCMW1/product-2.jpg",
+      "description": "12% off Unleash crystal-clear sound with our Premium Bluetooth Headphones—now at half the price! Perfect for music lovers, these headphones offer immersive audio, a comfortable fit, and up to 20 hours of wireless playtime. Don't miss this limited-time offer—grab yours at 50% off and experience top-tier sound for less!",
+      "cost": "12% off"
+    },
+    {
+      "id": 3,
+      "treatment": "Winter Jacket",
+      "image": "https://i.ibb.co.com/bQ7Kbpv/product-4.jpg",
+      "description": "Get ready for your next adventure with 7% off on all outdoor gear! From hiking backpacks and tents to portable water bottles and sleeping bags, our durable outdoor essentials are built to withstand the toughest conditions. Don’t miss this chance to save big before your next outdoor excursion!",
+      "cost": "7% off"
+    },
+    {
+      "id": 4,
+      "treatment": "Mobiles",
+      "image": "https://i.ibb.co.com/TvJkJHn/product-5.jpg",
+      "description": "Transform your home into a smart haven with 30% off our entire range of smart home devices! From voice-controlled speakers to smart thermostats, we've got everything you need to make your life easier and more efficient. Shop now and upgrade your space with the latest tech at unbeatable prices.",
+      "cost": "16% off"
+    },
+    {
+      "id": 5,
+      "treatment": "Laptop",
+      "image": "https://i.ibb.co.com/4jHCbxt/product-6.jpg",
+      "description": "Transform your home into a smart haven with 30% off our entire range of smart home devices! From voice-controlled speakers to smart thermostats, we've got everything you need to make your life easier and more efficient. Shop now and upgrade your space with the latest tech at unbeatable prices.",
+      "cost": "18% off"
+    }, 
+    {
+        "id": 6,
+        "treatment": "Watch",
+        "image": "https://i.ibb.co.com/5R36X8S/watch-male-female-kid-set-3d-realistic-vector-529539-281.jpg",
+        "description": "Transform your home into a smart haven with 30% off our entire range of smart home devices! From voice-controlled speakers to smart thermostats, we've got everything you need to make your life easier and more efficient. Shop now and upgrade your space with the latest tech at unbeatable prices",
+        "cost": "50%"
+      }
+  ]
+  
